@@ -8,3 +8,4 @@ for i in range(1, 51):
         continue
     print(i)
 
+# saya menambahkan komentar ini untuk github
